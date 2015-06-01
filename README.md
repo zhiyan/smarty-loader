@@ -23,4 +23,4 @@ var html = template.fetch({ foo: 'bar' });
 ```
 
 ### License
-[WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-strip.jpg)
+MIT (http://www.opensource.org/licenses/mit-license.php)
