@@ -1,0 +1,33 @@
+{
+  "name": "smarty-loader",
+  "version": "0.0.1",
+  "description": "Smarty loader for webpack",
+  "keywords": [
+    "webpack",
+    "loader",
+    "php",
+    "smarty"
+  ],
+  "homepage": "https://github.com/zhiyan/smarty-loader",
+  "author": {
+    "name": "zhiyan",
+    "email": "zhiyan1987@gmail.com",
+    "url": "https://github.com/zhiyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhiyan/smarty-loader.git"
+  },
+  "main": "index.js",
+  "peerDependencies": {
+    "webpack": "^1.4.3",
+    "loader-utils": "^0.2.4"
+  },
+  "dependencies": {
+  },
+  "scripts": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT"
+}
